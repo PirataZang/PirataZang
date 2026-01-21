@@ -84,8 +84,12 @@ Sou desenvolvedor **Full Stack**, focado no ecossistema **JavaScript**, criando 
 🚀 Sempre buscando evolução e desafios reais
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PirataZang/PirataZang/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PirataZang/PirataZang/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/PirataZang/PirataZang/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+
 
 ---
 
