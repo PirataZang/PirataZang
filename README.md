@@ -3,7 +3,18 @@
 </p>
 
 <h1 align="center">Igor Fronza</h1>
-<h3 align="center">Desenvolvedor Full Stack JavaScript</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=22&
+    pause=1000&
+    color=38BDF8&
+    center=true&
+    vCenter=true&
+    width=650&
+    lines=Desenvolvedor+Full+Stack+JavaScript;Vue+%7C+Nuxt+%7C+NestJS+%7C+PHP;Criando+soluções+escaláveis+🚀" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/igor-fronza-592796249/" target="_blank">
@@ -16,72 +27,67 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 📊 GitHub em ação
 
-Sou desenvolvedor **Full Stack**, apaixonado por criar soluções digitais eficientes, escaláveis e bem estruturadas.  
-Atuo no desenvolvimento de aplicações **web e APIs**, sempre focando em **boas práticas**, performance e experiência do usuário.
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PirataZang&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PirataZang&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
-🚀 Foco principal no ecossistema **JavaScript**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PirataZang&theme=tokyo-night&hide_border=true" />
+</p>
+
+
+## 🚀 Stack principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,nestjs,php&theme=dark" />
+</p>
+
+<p align="center">
+  <strong>
+    JavaScript · TypeScript · Vue.js · Nuxt.js · NestJS · PHP
+  </strong>
+</p>
 
 ---
 
-## 🚀 Tecnologias
-
-### 💻 Linguagens
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,cs,sql" />
-</p>
+## 🧩 Outras tecnologias
 
 ### 🎨 Front-end
+
 <p>
   <img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,tailwind,sass,html,css" />
 </p>
 
 ### ⚙️ Back-end
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,laravel,dotnet,nodejs,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,dotnet,postgres,python" />
 </p>
 
-### 🧰 Ferramentas & Boas Práticas
+### 🧰 Ferramentas
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor **Full Stack**, focado no ecossistema **JavaScript**, criando aplicações web modernas, APIs escaláveis e soluções bem estruturadas.
+
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+🧠 Forte em boas práticas, arquitetura limpa e performance  
+🚀 Sempre buscando evolução e desafios reais
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PirataZang&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PirataZang&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/PirataZang/PirataZang/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PirataZang&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 💡 O que eu faço
-
-- Desenvolvimento de sistemas completos (front + back)
-- Criação de APIs REST escaláveis
-- Interfaces modernas e responsivas
-- Dashboards e relatórios estratégicos
-- Código limpo, organizado e sustentável
-
----
-
-## ✨ Em constante evolução
-
-Estou sempre buscando novos desafios e aprendizados, explorando tecnologias modernas e aprimorando minhas habilidades para entregar soluções que realmente façam a diferença.
-
----
-
-📄 **Currículo resumido:**  
+📄 **Currículo resumido**  
 👉 https://drive.google.com/file/d/1cN80LtZC8td4sjRN4pUTIiJWu8MLDO9p/view
