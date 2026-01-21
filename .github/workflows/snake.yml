@@ -2,22 +2,24 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # roda todo dia à meia-noite
+  workflow_dispatch:     # permite rodar manualmente
 
 permissions:
-  contents: write   # <<< ISSO É O QUE ESTAVA FALTANDO
+  contents: write        # PERMISSÃO PARA CRIAR / ATUALIZAR A BRANCH output
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake (light + dark)
+        uses: Platane/snk@v3
         with:
           github_user_name: PirataZang
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
