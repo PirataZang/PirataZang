@@ -3,18 +3,10 @@
 </p>
 
 <h1 align="center">Igor Fronza</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&
-    size=22&
-    pause=1000&
-    color=38BDF8&
-    center=true&
-    vCenter=true&
-    width=650&
-    lines=Desenvolvedor+Full+Stack+JavaScript;Vue+%7C+Nuxt+%7C+NestJS+%7C+PHP;Criando+soluções+escaláveis+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=0FB9B1&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/igor-fronza-592796249/" target="_blank">
