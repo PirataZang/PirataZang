@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpg" alt="JavaScript Developer Banner" />
+  <img src="./assets/banner.png" alt="JavaScript Developer Banner" />
 </p>
 
 <h1 align="center">Igor Fronza</h1>
