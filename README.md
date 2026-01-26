@@ -56,13 +56,13 @@
 ### ⚙️ Back-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,nest,adonis,dotnet,postgres,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,nest,adonis,postgres,python,prisma" />
 </p>
 
 ### 🧰 Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
 </p>
 
 ---
