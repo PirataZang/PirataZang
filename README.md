@@ -39,7 +39,7 @@
 
 <p align="center">
   <strong>
-    JavaScript · TypeScript · Vue.js · Nuxt.js · NestJS · PHP
+    JavaScript · TypeScript · Vue.js · Nuxt.js · AdonisJs · PHP
   </strong>
 </p>
 
