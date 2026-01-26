@@ -34,7 +34,7 @@
 ## 🚀 Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,nestjs,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,adonis,php&theme=dark" />
 </p>
 
 <p align="center">
@@ -50,13 +50,13 @@
 ### 🎨 Front-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,tailwind,sass,html,css" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,tailwind,sass,html,css" />
 </p>
 
 ### ⚙️ Back-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,dotnet,postgres,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,nest,adonis,dotnet,postgres,python" />
 </p>
 
 ### 🧰 Ferramentas
