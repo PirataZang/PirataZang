@@ -34,7 +34,7 @@
 ## 🚀 Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,adonis,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,nuxt,adonis,php&theme=dark" />
 </p>
 
 <p align="center">
