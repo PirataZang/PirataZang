@@ -44,12 +44,12 @@
 ## 🚀 Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,nuxt,adonis,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,nuxt,adonis,laravel,docker,php&theme=dark" />
 </p>
 
 <p align="center">
   <strong>
-    JavaScript · TypeScript · Nodejs · Vue.js · Nuxt.js · AdonisJs · PHP
+    JavaScript · TypeScript · Nodejs · Vue.js · Nuxt.js · AdonisJs · Laravel · Docker · PHP
   </strong>
 </p>
 
