@@ -229,11 +229,12 @@ IA entra como ferramenta, com revisão humana no meio. **Não entrego código qu
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PirataZang/PirataZang/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PirataZang/PirataZang/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/PirataZang/PirataZang/output/github-snake.svg" alt="Cobrinha comendo os commits do gráfico de contribuições" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PirataZang/PirataZang/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/PirataZang/PirataZang/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <br /><br />
 
