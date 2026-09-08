@@ -255,10 +255,10 @@ IA entra como ferramenta, com revisão humana no meio. **Não entrego código qu
 
 | | A partir de | Prazo |
 |---|---|---|
-| 🖥️ **Criação de site** — landing, institucional ou loja | **R$ 300** (uma página, escopo fechado) | 1 a 2 semanas |
-| ⚙️ **Sistema sob medida** — painel, ERP leve, integração | **R$ 3.000** por módulo | 4 a 12 semanas |
-| 🧭 **Consultoria técnica** — revisão, arquitetura, performance | **R$ 220/h** (pacotes de 10 h) | agenda na semana |
-| ☁️ **Hosting** — site estático na minha infra, HTTPS e domínio | **R$ 50/mês** | no ar em 24 h |
+| 🖥️ **Criação de site** — landing, institucional ou loja | **R$ 500** (uma página, escopo fechado) | 1 a 2 semanas |
+| ⚙️ **Sistema CRM ou ERP sob medida** — painel, ERP leve, integração | **R$ 3.000** por módulo | 4 a 12 semanas |
+| 🧭 **Consultoria técnica** — revisão, arquitetura, performance | **R$ 280/h** (pacotes de 10 h) | agenda na semana |
+| ☁️ **Hospedagem de Site** — site estático na minha infra, HTTPS e domínio | **R$ 50/mês** | no ar em 24 h |
 
 Preço de referência para calibrar orçamento. O valor fecha depois da conversa, por escrito, e não muda no meio.
 
