@@ -28,7 +28,7 @@ Não vendo linguagem — entrego coisa de pé: **CRM e ERP corporativo em Larave
 
 | | Projeto | O que é |
 |---|---|---|
-| 🖥️ | **[DevScope](https://github.com/PirataZang/devscope)** | TUI em **Go** que descobre seus projetos e opera container, Git, CI, tunnel, banco e API num painel só. Binário único, MIT, release `v1.6.2` com CI verde. **Eu uso todo dia.** |
+| 🖥️ | **[DevScope](https://github.com/PirataZang/devscope)** | TUI em **Go** que descobre seus projetos e opera container, Git, CI, tunnel, banco e API num painel só. Binário único, MIT, release `v1.6.9` com CI verde. **Eu uso todo dia.** |
 | 📊 | **[SyncSaaS](https://github.com/PirataZang/laravel-sync)** | CRM e ERP corporativo em **Laravel + Vue**: pipelines automatizados, auditoria de operação em tempo real e controle de acesso. |
 | 🤖 | **[botrpg](https://github.com/PirataZang/botrpg)** | Bot de RPG para **Telegram** com raças, classes, monstros, loot, dados e clima — sobe com `docker compose up` e joga sozinho com a mesa. |
 | 🎓 | **[MentorCLI](https://github.com/PirataZang/mentor-cli)** | Professor particular de programação dentro do terminal, em **Node**. |
@@ -63,6 +63,10 @@ O que me define melhor do que uma lista de tecnologias:
 [![Estrelas](https://img.shields.io/github/stars/PirataZang/devscope?style=flat-square&color=8b2fff&label=stars)](https://github.com/PirataZang/devscope/stargazers)
 [![Linguagem](https://img.shields.io/github/languages/top/PirataZang/devscope?style=flat-square&color=00ADD8)](https://github.com/PirataZang/devscope)
 [![Último commit](https://img.shields.io/github/last-commit/PirataZang/devscope?style=flat-square&color=a259f7)](https://github.com/PirataZang/devscope/commits/main)
+
+<br />
+
+<img src="assets/demo.gif" alt="DevScope em ação — descobre os projetos, abre container, Git e CI num painel só no terminal" width="100%" />
 
 </div>
 
