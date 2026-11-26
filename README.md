@@ -1,212 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b2ec4,50:8b2fff,100:a259f7&height=190&section=header&text=Igor%20Fronza&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Fullstack%20%C2%B7%20Rio%20do%20Sul%2FSC&descAlignY=58&descSize=18" alt="Igor Fronza — Desenvolvedor Fullstack" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:2a1460,100:8b2fff&height=200&section=header&text=Igor%20Fronza&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Engenheiro%20de%20software%20%C2%B7%20Go%20%C2%B7%20Rust%20%C2%B7%20Laravel%20%C2%B7%20AppSec&descAlignY=58&descSize=17" alt="Igor Fronza, engenheiro de software" />
 
-<a href="https://github.com/PirataZang/devscope">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A259F7&center=true&vCenter=true&width=620&lines=CRM+e+ERP+corporativo+em+Laravel%2C+em+produ%C3%A7%C3%A3o;Pain%C3%A9is+em+Vue+%2B+TypeScript+que+o+cliente+opera+sozinho;Bots+de+Telegram+que+rodam+em+container%2C+24%2F7;DevScope%3A+uma+TUI+em+Go+que+eu+uso+todo+dia" alt="CRM e ERP em Laravel · Painéis em Vue e TypeScript · Bots de Telegram · DevScope, TUI em Go" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1400&color=A259F7&center=true&vCenter=true&width=680&lines=nscope%3A+TUI+em+Rust+para+o+nmap%2C+sem+shell+e+sem+unsafe;Orbia%3A+Ollama%2C+Claude+Code%2C+Gemini+e+Codex+numa+janela;Financer%3A+SaaS+multi-tenant+com+170%2B+testes;DevScope%3A+a+TUI+em+Go+que+eu+uso+todo+dia" alt="nscope, Orbia, Financer e DevScope" />
 
-<br />
-
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-igorfronza.dev-8b2fff?style=for-the-badge&logo=astro&logoColor=white)](https://igorfronza.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor%20Fronza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-fronza-592796249)
-[![E-mail](https://img.shields.io/badge/E--mail-igorfronza20@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorfronza20@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-(47)%2098902--2030-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547989022030)
-[![Instagram](https://img.shields.io/badge/Instagram-@igorfronza__official-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igorfronza_official)
+[![Site](https://img.shields.io/badge/igorfronza.dev.br-0d1117?style=for-the-badge&logo=astro&logoColor=a259f7)](https://www.igorfronza.dev.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/igor-fronza-592796249)
+[![E-mail](https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:igorfronza20@gmail.com)
+[![security.txt](https://img.shields.io/badge/security.txt-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=a259f7)](https://www.igorfronza.dev.br/.well-known/security.txt)
 
 </div>
 
----
+```console
+$ whoami
+igor fronza · engenheiro de software · Rio do Sul/SC · remoto para o Brasil todo
 
-## 👋 Sobre mim
+$ cat ~/foco
+dev          Go, Rust, PHP/Laravel, TypeScript, Vue, Kotlin
+arquitetura  SaaS multi-tenant, filas e workers, tudo em container, CI que gera SBOM e proveniência
+ia           apps que conversam com LLMs locais e CLIs de agentes, cada um em sandbox
+segurança    estudando AppSec; threat model, input não confiável e supply chain já entram no código
+```
 
-Desenvolvedor fullstack em **Rio do Sul, Santa Catarina**, atendendo o Brasil inteiro em remoto.
-
-Não vendo linguagem — entrego coisa de pé: **CRM e ERP corporativo em Laravel**, **painéis em Vue com TypeScript** que o cliente opera sem me chamar, **bots de Telegram** rodando sozinhos em container e uma **TUI em Go** que virou minha ferramenta de trabalho diária. Tudo em container, tudo com o repositório aberto.
-
-### 🚀 O que eu já coloquei de pé
-
-| | Projeto | O que é |
-|---|---|---|
-| 🖥️ | **[DevScope](https://github.com/PirataZang/devscope)** | TUI em **Go** que descobre seus projetos e opera container, Git, CI, tunnel, banco e API num painel só. Binário único, MIT, release `v1.6.9` com CI verde. **Eu uso todo dia.** |
-| 📊 | **[SyncSaaS](https://github.com/PirataZang/laravel-sync)** | CRM e ERP corporativo em **Laravel + Vue**: pipelines automatizados, auditoria de operação em tempo real e controle de acesso. |
-| 🤖 | **[botrpg](https://github.com/PirataZang/botrpg)** | Bot de RPG para **Telegram** com raças, classes, monstros, loot, dados e clima — sobe com `docker compose up` e joga sozinho com a mesa. |
-| 🎓 | **[MentorCLI](https://github.com/PirataZang/mentor-cli)** | Professor particular de programação dentro do terminal, em **Node**. |
-| 🎨 | **[Portfólio + 5 demos](https://github.com/PirataZang/portfolio)** | Cinco sites completos em **Astro**, cada um com um sistema de verdade funcionando: cardápio com pedido no WhatsApp, planta interativa em 3D, comparador de acabamento, agendamento clínico e bilheteria com carrinho e checkout. |
-
-O que me define melhor do que uma lista de tecnologias:
-
-- **Escolho stack pensando em manutenção, não em moda.** A pergunta não é "o que está bombando", é "quem vai sustentar isto daqui a dois anos".
-- **Escopo e preço por escrito, antes de começar.** O que entra, o que fica de fora, prazo e valor fechado — sem hora surpresa no fim.
-- **Sem lock-in.** O repositório é do cliente desde o primeiro commit e a entrega é em container: roda em qualquer provedor, com qualquer desenvolvedor depois de mim.
-- **Ferramenta é feita quando dói.** O DevScope abaixo nasceu de um problema meu, real, que eu enfrentava todo dia — e hoje eu uso ele todo dia.
-
-> 💼 **Disponível para projeto** — sites, sistemas sob medida e consultoria técnica.
-> 🌱 Estudando **Go em profundidade**, arquitetura de TUIs e orquestração com Swarm/Kubernetes.
+Escrevo ferramenta de terminal em Go e Rust, sistema web em Laravel e Vue, e app desktop em Tauri. Antes de escrever a primeira linha, defino o que entra como dado não confiável: saída de rede, resposta de LLM, planilha importada, argumento de linha de comando. O resto do projeto parte daí.
 
 ---
 
-## ⭐ Projeto em destaque — DevScope
-
-<div align="center">
-
-### 🖥️ [`DevScope`](https://github.com/PirataZang/devscope) — o "htop" dos seus projetos
-
-**Visualize, monitore e opere todos os projetos da sua máquina ou VPS em uma única TUI.**
-
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://github.com/PirataZang/devscope)
-[![License MIT](https://img.shields.io/github/license/PirataZang/devscope?style=flat-square&color=8b2fff)](https://github.com/PirataZang/devscope/blob/main/LICENSE)
-[![CI](https://img.shields.io/github/actions/workflow/status/PirataZang/devscope/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/PirataZang/devscope/actions)
-[![Release](https://img.shields.io/github/v/release/PirataZang/devscope?style=flat-square&color=00ADD8)](https://github.com/PirataZang/devscope/releases)
-![Plataformas](https://img.shields.io/badge/Linux%20%7C%20macOS%20%7C%20Windows-informational?style=flat-square)
-
-[![Estrelas](https://img.shields.io/github/stars/PirataZang/devscope?style=flat-square&color=8b2fff&label=stars)](https://github.com/PirataZang/devscope/stargazers)
-[![Linguagem](https://img.shields.io/github/languages/top/PirataZang/devscope?style=flat-square&color=00ADD8)](https://github.com/PirataZang/devscope)
-[![Último commit](https://img.shields.io/github/last-commit/PirataZang/devscope?style=flat-square&color=a259f7)](https://github.com/PirataZang/devscope/commits/main)
-
-<br />
-
-<img src="assets/demo.gif" alt="DevScope em ação — descobre os projetos, abre container, Git e CI num painel só no terminal" width="100%" />
-
-</div>
-
-### O problema
-
-Gerenciar vários projetos ao mesmo tempo obriga a saltar entre utilitários que não se falam:
-
-```bash
-docker ps -a                    # containers rodando
-docker stats --no-stream        # uso de recursos
-pm2 list                        # processos Node
-git -C /var/www/projeto status   # alterações de código
-gh run list                     # pipelines
-ss -ltn | grep LISTEN           # portas abertas
-certbot certificates            # validade do SSL
-```
-
-Cada ferramenta fala a língua dela. **Você pensa em projetos.**
-
-### A solução
-
-O DevScope descobre seus projetos automaticamente e agrupa container, Git, CI, tunnel, banco, API e saúde **no contexto do projeto certo** — direto no terminal.
-
-```
-┌───────────────────────────────────────────────────────────────────────┐
-│ DevScope                 CPU 21%   RAM 54%   DISK 31%        14:32:01 │
-├───────────────────────────────────────────────────────────────────────┤
-│ PROJECTS (12)                                                         │
-│   NAME              STATUS    BRANCH   CPU   RAM    PORTS             │
-│ ● api               ● Run     main     12%   340M   :3000             │
-│ ● frontend          ● Deg     develop   8%   128M   :5173             │
-│ ○ worker            ● Stop    main      -     -     -                 │
-├───────────────────────────────────────────────────────────────────────┤
-│ Total: 12   Running: 8   Stopped: 3   Degraded: 1                     │
-│ ↑↓ navigate  ENTER open  / filter  g git  c containers  ? help  q quit│
-└───────────────────────────────────────────────────────────────────────┘
-```
-
-### O que ele faz
-
-| Grupo | Módulos |
-|---|---|
-| 👁️ **WATCH** | Descoberta automática de projetos · detecção de framework · métricas de CPU/RAM/disco · health check HTTP/TCP · Nginx e validade de SSL |
-| 🔎 **SCOPE** | Git completo (branch, commit, diff, merge, cherry-pick, PR) · containers por projeto com logs, shell e stats · Docker Compose · PM2 |
-| ⚙️ **AUTOMATION** | GitHub Actions (runs, logs, trigger, re-run) · Jenkins |
-| 🧭 **MANAGER** | Docker Swarm (services, nodes, scale, rollback) · Kubernetes (pods, deployments, manifests) |
-| 🌐 **TUNNEL** | Ngrok · SSH Tunnel · Cloudflare Tunnel |
-| 🧰 **TOOLS** | Descoberta de rotas (OpenAPI + parsers) · cliente HTTP · SQL em Postgres/MySQL · inspector de WebSocket |
-
-**Por que ele é diferente:** binário único, sem daemon, sem browser e sem runtime instalado. Orientado a projeto, não a recurso solto. MIT.
-
-### Instalação
-
-```bash
-# Linux e macOS
-curl -fsSL https://raw.githubusercontent.com/PirataZang/devscope/main/scripts/install.sh | bash
-
-# Windows (PowerShell)
-irm https://raw.githubusercontent.com/PirataZang/devscope/main/scripts/install.ps1 | iex
-
-devscope
-```
-
-<div align="center">
-
-**[→ Ver o DevScope no GitHub](https://github.com/PirataZang/devscope)**
-
-</div>
-
----
-
-## 🧰 Ferramental
-
-Estas são as ferramentas que eu **sustento em produção** — não uma lista de tudo que já toquei uma vez.
-
-<div align="center">
-
-### 🎨 Front-end
-
-[![Front-end](https://skillicons.dev/icons?i=vuejs,nuxtjs,react,astro,typescript,javascript,tailwindcss,sass,html,css,vite,pinia&perline=12)](https://skillicons.dev)
-
-`Vue 3` · `Nuxt` · `React` · `Astro` · `TypeScript` · `JavaScript` · `Tailwind` · `Sass` · `HTML5` · `CSS` · `Vite` · `Pinia`
-
-### 🗄️ Back-end
-
-[![Back-end](https://skillicons.dev/icons?i=laravel,php,nestjs,adonis,nodejs,golang,python,fastapi,postgresql,mysql,sqlite,redis,mongodb,prisma,graphql&perline=15)](https://skillicons.dev)
-
-`Laravel` · `PHP` · `NestJS` · `AdonisJS` · `Node.js` · `Go` · `Python` · `FastAPI` · `PostgreSQL` · `MySQL` · `SQLite` · `Redis` · `MongoDB` · `Prisma` · `GraphQL`
-
-### 🚢 Infra e deploy
-
-[![Infra](https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,nginx,cloudflare,vercel,netlify,linux,ubuntu,bash,postman,grafana,prometheus&perline=15)](https://skillicons.dev)
-
-`Docker` · `Docker Compose` · `Kubernetes` · `Git` · `GitHub Actions` · `nginx` · `Cloudflare` · `Cloudflare Tunnel` · `Vercel` · `Netlify` · `Linux` · `Ubuntu` · `SSH` · `ngrok` · `Portainer` · `Postman` · `Insomnia` · `Grafana` · `Prometheus` · `DigitalOcean`
-
-### 🤖 IA no fluxo
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-0A0A0A?style=for-the-badge&logo=cursor&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-1a1a1a?style=for-the-badge&logo=ollama&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&logo=mistralai&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-94A3B8?style=for-the-badge&logo=openrouter&logoColor=white)
-
-IA entra como ferramenta, com revisão humana no meio. **Não entrego código que eu não saiba explicar linha a linha.**
-
-</div>
-
----
-
-## 🛠️ Como eu trabalho
+## Projetos em destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Entrega**
+### [nscope](https://github.com/PirataZang/nscope)
+<a href="https://github.com/PirataZang/nscope"><img src="https://raw.githubusercontent.com/PirataZang/nscope/main/docs/media/tela-comando.png" alt="nscope mostrando o comando do nmap com cada flag explicada" width="100%" /></a>
 
-- Container em toda entrega — roda igual na minha máquina, na sua e na VPS
-- Repositório do cliente desde o primeiro commit
-- Deploy, domínio e HTTPS inclusos
-- CI no GitHub Actions quando o projeto justifica
-- 30 dias de ajuste sem custo após subir
+TUI para o nmap. Monta o comando, explica cada flag, avisa do risco antes de rodar e mostra hosts e portas num painel navegável. Interface em português.
+
+`Rust` `ratatui` `nmap`
+
+**Segurança:** `#![forbid(unsafe_code)]`, `nmap` chamado com lista de argumentos (sem shell), texto vindo da rede sanitizado contra escape de terminal, temporários em diretório `0700`, release com SHA256SUMS, SBOM CycloneDX e build provenance, `cargo audit` e `cargo deny` no fluxo.
 
 </td>
 <td width="50%" valign="top">
 
-**Código**
+### [Orbia](https://github.com/PirataZang/orbia)
+<a href="https://github.com/PirataZang/orbia"><img src="https://raw.githubusercontent.com/PirataZang/orbia/main/docs/assets/inicio.png" alt="Orbia listando as IAs encontradas no computador" width="100%" /></a>
 
-- Comentário explica *por quê*, não *o quê*
-- Teste onde a lógica pode quebrar em silêncio
-- Acessibilidade e SEO técnico não são extra
-- Responsivo real, de 320 px a 4K
-- Sem dependência nova para o que cabe em cinco linhas
+App desktop que acha Ollama, Claude Code, Gemini CLI e Codex instalados na máquina e abre todos numa interface de chat com Markdown e imagens. Sem chave de API, sem conta nova.
+
+`Tauri 2` `Rust` `TypeScript` `Ollama`
+
+**Segurança:** resposta do modelo tratada como entrada hostil (DOMPurify + CSP que bloqueia script e imagem externos), cada CLI roda numa pasta vazia por conversa, sem shell, e o Codex em sandbox `read-only`.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Financer SaaS](https://github.com/PirataZang/financer-saas)
+<a href="https://github.com/PirataZang/financer-saas"><img src="https://raw.githubusercontent.com/PirataZang/financer-saas/main/docs/media/dashboard.gif" alt="Dashboard do Financer com clientes, projetos e gráficos" width="100%" /></a>
+
+SaaS multi-empresa de CRM e financeiro: funil de vendas, portal do cliente, importação de planilha em fila, contratos em PDF, sync com Mercado Pago e bot no Telegram. 7 serviços no Compose, 170+ testes no backend.
+
+`Laravel 13` `Vue 3` `PostgreSQL` `Redis` `grammY`
+
+**Segurança:** isolamento por tenant com global scope e um teste que quebra se uma tabela nova nascer sem `company_id NOT NULL`, permissão declarada por ação, credenciais de integração cifradas em repouso, tokens fora do log de auditoria, portal com login por código e sessão separada.
+
+</td>
+<td width="50%" valign="top">
+
+### [DevScope](https://github.com/PirataZang/devscope)
+<a href="https://github.com/PirataZang/devscope"><img src="https://raw.githubusercontent.com/PirataZang/devscope/main/docs/media/overview.gif" alt="DevScope descobrindo projetos e abrindo container, Git e CI no terminal" width="100%" /></a>
+
+O "htop dos seus projetos". Descobre os projetos da máquina ou da VPS e junta container, Git, CI, túnel, banco, rotas de API e health check no contexto de cada um. Binário único, sem daemon.
+
+`Go` `Bubble Tea` `Docker` `GitHub Actions`
+
+[![Release](https://img.shields.io/github/v/release/PirataZang/devscope?style=flat-square&color=8b2fff&label=release)](https://github.com/PirataZang/devscope/releases)
+[![CI](https://img.shields.io/github/actions/workflow/status/PirataZang/devscope/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/PirataZang/devscope/actions)
+[![Stars](https://img.shields.io/github/stars/PirataZang/devscope?style=flat-square&color=8b2fff)](https://github.com/PirataZang/devscope/stargazers)
 
 </td>
 </tr>
@@ -214,73 +87,159 @@ IA entra como ferramenta, com revisão humana no meio. **Não entrego código qu
 
 ---
 
-## 📂 Outros projetos
+<details>
+<summary><b>Mais telas desses quatro projetos</b></summary>
+<br />
+
+<table>
+<tr>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/PirataZang/devscope/main/docs/media/git.gif" alt="DevScope navegando branches e commits" width="100%" /><br /><sub>DevScope: Git do projeto sem sair do painel</sub></td>
+<td width="50%" align="center"><img src="https://raw.githubusercontent.com/PirataZang/devscope/main/docs/images/containers.png" alt="DevScope listando containers com logs e stats" width="100%" /><br /><sub>DevScope: containers com logs e stats</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/PirataZang/financer-saas/main/docs/media/importacao.gif" alt="Financer importando planilha de clientes" width="100%" /><br /><sub>Financer: planilha, mapeamento de colunas, revisão e fila</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/PirataZang/orbia/main/docs/assets/temas.png" alt="Orbia nos temas Roxo, Azul, Branco e Preto" width="100%" /><br /><sub>Orbia: a mesma conversa nos quatro temas</sub></td>
+</tr>
+</table>
+
+</details>
+
+---
+
+## Segurança no código, com link
+
+Nada aqui é certificação. São controles que estão nos repositórios e dá para conferir.
+
+<div align="center">
+<a href="https://github.com/PirataZang/nscope"><img src="https://raw.githubusercontent.com/PirataZang/nscope/main/docs/media/seguranca.gif" alt="nscope explicando cada tipo de alvo e avisando sobre autorização antes de escanear" width="720" /></a>
+<br /><sub>O nscope explica o alvo e cobra autorização antes de rodar o nmap.</sub>
+</div>
+
+| Controle | Ameaça | Onde |
+|---|---|---|
+| Processo externo sem shell, argumentos em lista, alvo nunca começa com `-` | injeção de comando e de argumento | [nscope](https://github.com/PirataZang/nscope#segurança-modelo-de-ameaças-resumido), [Orbia](https://github.com/PirataZang/orbia) |
+| Banner, hostname e saída de script NSE limpos de ESC, bidi e largura zero | injeção de sequência de escape no terminal | [nscope](https://github.com/PirataZang/nscope) |
+| Saída de LLM sanitizada antes de virar HTML, CSP restritiva | XSS via resposta do modelo, exfiltração por imagem | [Orbia](https://github.com/PirataZang/orbia) |
+| Agente de IA em pasta vazia, sem shell, Codex `read-only` | agente lendo ou alterando arquivo que não devia | [Orbia](https://github.com/PirataZang/orbia) |
+| Teste que falha se tabela de tenant não tiver `company_id` obrigatório | vazamento de dados entre empresas (IDOR entre tenants) | [Financer](https://github.com/PirataZang/financer-saas) |
+| Segredo cifrado em repouso, apagado depois do uso, fora do log de auditoria | vazamento de credencial | [Financer](https://github.com/PirataZang/financer-saas) |
+| SBOM CycloneDX, SHA256SUMS, build provenance, actions fixadas por SHA | supply chain | [nscope](https://github.com/PirataZang/nscope) |
+| Confirmação antes de escanear fora da rede privada, com "Não" como padrão | uso não autorizado | [nscope](https://github.com/PirataZang/nscope) |
+| `security.txt` com contato e validade (RFC 9116) | falha reportada sem canal privado | [igorfronza.dev.br](https://www.igorfronza.dev.br/.well-known/security.txt) |
+
+**Estudando agora:** OWASP Top 10 a fundo, hardening de headers do meu site (CSP e HSTS), laboratórios e CTF, e o primeiro write-up público. Quando sair, entra aqui com link.
+
+---
+
+## Como eu decido
+
+- Stack escolhida por quem vai manter daqui a dois anos. Por isso Laravel e Postgres no SaaS, Go e Rust em binário único nas ferramentas.
+- Entrega em container. Roda igual na minha máquina, na sua e na VPS, e o repositório é do cliente desde o primeiro commit.
+- Teste onde a falha seria silenciosa: isolamento de tenant, importação, permissão.
+- Sem dependência nova para o que cabe em cinco linhas. No nscope, cada crate tem a justificativa escrita no README.
+
+---
+
+## IA no fluxo
+
+Uso Claude Code, Ollama, Gemini CLI e Codex no dia a dia, e o Orbia nasceu disso. Trato LLM como componente que recebe e devolve dado não confiável: a saída passa por sanitização, o agente roda com o mínimo de permissão e nada vai para produção sem revisão minha. Não entrego código que eu não saiba explicar linha a linha.
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-0d1117?style=flat-square&logo=claude&logoColor=D97757)
+![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-0d1117?style=flat-square&logo=googlegemini&logoColor=8E75B2)
+![Codex](https://img.shields.io/badge/Codex-0d1117?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+## Fora do terminal
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### [Spill](https://github.com/PirataZang/Spill)
+<a href="https://github.com/PirataZang/Spill"><img src="https://raw.githubusercontent.com/PirataZang/Spill/main/docs/trio.png" alt="Três cartas do Spill: filme, desafio e você prefere" width="100%" /></a>
+
+App Android de cartas para roda de amigos. Modo Conversa com 300 cartas em 6 baralhos (PT e EN) e Modo Drink +18 com 6 jogos. Offline, sem cadastro, sem anúncio e sem pedir nenhuma permissão. APK nas [releases](https://github.com/PirataZang/Spill/releases/latest).
+
+`Kotlin` `Android`
+
+</td>
+<td width="42%" valign="top">
+
+### [botrpg](https://github.com/PirataZang/botrpg)
+<a href="https://t.me/RPGSilverBot"><img src="https://raw.githubusercontent.com/PirataZang/botrpg/main/docs/demo.gif" alt="botrpg rolando dados no Telegram" width="100%" /></a>
+
+Bot de D&D 5e em português: dados com vantagem, 77 monstros, 319 feitiços, gerador de dungeon, NPCs e loot. No ar em [@RPGSilverBot](https://t.me/RPGSilverBot).
+
+`Node` `Telegram` `Docker`
+
+</td>
+</tr>
+</table>
+
+### Sites com sistema dentro
+
+Seis demos completas no meu [portfólio](https://github.com/PirataZang/portfolio), feitas em Astro. Cada uma resolve um problema do nicho, além da vitrine. Clique para abrir no ar.
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="https://www.igorfronza.dev.br/sites/marmoraria/"><img src="https://raw.githubusercontent.com/PirataZang/portfolio/main/public/demos/marmoraria.webp" alt="Demo Marmoraria" width="100%" /></a><br /><b>Marmoraria</b><br /><sub>comparador de acabamentos e orçamento</sub></td>
+<td width="33%" align="center"><a href="https://www.igorfronza.dev.br/sites/arquitetura/"><img src="https://raw.githubusercontent.com/PirataZang/portfolio/main/public/demos/arquitetura.webp" alt="Demo PRUMO" width="100%" /></a><br /><b>PRUMO</b><br /><sub>planta interativa e cena guiada por scroll</sub></td>
+<td width="33%" align="center"><a href="https://www.igorfronza.dev.br/sites/pulse/"><img src="https://raw.githubusercontent.com/PirataZang/portfolio/main/public/demos/pulse.webp" alt="Demo PULSE" width="100%" /></a><br /><b>PULSE</b><br /><sub>carrinho, compra simulada e ingresso com QR</sub></td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.igorfronza.dev.br/sites/imobiliaria/"><img src="https://raw.githubusercontent.com/PirataZang/portfolio/main/public/demos/imobiliaria.webp" alt="Demo Meridiano Imóveis" width="100%" /></a><br /><b>Meridiano Imóveis</b><br /><sub>ilustrações geradas no build, sem foto</sub></td>
+<td align="center"><a href="https://www.igorfronza.dev.br/sites/barbearia/"><img src="https://raw.githubusercontent.com/PirataZang/portfolio/main/public/demos/barbearia.webp" alt="Demo Daniel's" width="100%" /></a><br /><b>Daniel's</b><br /><sub>agendamento em um toque</sub></td>
+<td align="center"><a href="https://www.igorfronza.dev.br/sites/alpine-refresh/"><img src="https://raw.githubusercontent.com/PirataZang/portfolio/main/public/demos/alpine-refresh.webp" alt="Demo Alpine Refresh" width="100%" /></a><br /><b>Alpine Refresh</b><br /><sub>narrativa por scroll com parallax em camadas</sub></td>
+</tr>
+</table>
+
+### Outros repositórios
 
 | Projeto | Stack | O que é |
 |---|---|---|
-| **[devscope](https://github.com/PirataZang/devscope)** ⭐ | `Go` | TUI para gerenciar projetos, containers, Git, CI e tunnels em um painel só |
-| **[laravel-sync](https://github.com/PirataZang/laravel-sync)** — SyncSaaS | `Laravel` `Vue` | CRM e ERP corporativo: pipelines, auditoria em tempo real e controle de acesso |
-| [peppercore-admin](https://github.com/PirataZang/peppercore-admin) | `Laravel` `Vue` `Docker` | Painel administrativo full-stack, back e front no mesmo compose |
-| [peppercore-site](https://github.com/PirataZang/peppercore-site) | `Vue 3` `TypeScript` `Tailwind` `GSAP` | Site institucional com animação dirigida por scroll |
-| [PillarArq](https://github.com/PirataZang/PillarArq) | `AdonisJS` `Vue` `Docker` | Sistema para escritório de arquitetura, API e painel |
-| [portfolio](https://github.com/PirataZang/portfolio) | `Astro` `TypeScript` | Meu portfólio e cinco demos completas, cada uma com um sistema funcionando |
-| [botrpg](https://github.com/PirataZang/botrpg) | `Node` `Telegram Bot API` `Docker` | Bot de RPG para Telegram: raças, classes, monstros, loot, dados e clima |
-| [mentor-cli](https://github.com/PirataZang/mentor-cli) | `Node` | MentorCLI — professor particular de programação no terminal |
+| [peppercore-admin](https://github.com/PirataZang/peppercore-admin) | `Laravel` `Vue` `Docker` | Painel administrativo com back e front no mesmo Compose. |
+| [laravel-sync](https://github.com/PirataZang/laravel-sync) | `Laravel` `Vue` | CRM e ERP: pipelines, auditoria de operação e controle de acesso. |
+| [mentor-cli](https://github.com/PirataZang/mentor-cli) | `Node` | Professor de programação dentro do terminal. |
 
 ---
 
-## 📊 GitHub
+## Stack que eu sustento
 
 <div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PirataZang/PirataZang/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/PirataZang/PirataZang/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<br /><br />
-
-**Linguagens nos repositórios públicos**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+[![Stack](https://skillicons.dev/icons?i=go,rust,php,laravel,ts,vue,nuxt,astro,tauri,kotlin,postgres,redis,docker,nginx,linux,githubactions,cloudflare&perline=17&theme=dark)](https://skillicons.dev)
 
 </div>
 
----
-
-## 💼 Serviços
-
-| | A partir de | Prazo |
-|---|---|---|
-| 🖥️ **Criação de site** — landing, institucional ou loja | **R$ 500** (uma página, escopo fechado) | 1 a 2 semanas |
-| ⚙️ **Sistema CRM ou ERP sob medida** — painel, ERP leve, integração | **R$ 3.000** por módulo | 4 a 12 semanas |
-| 🧭 **Consultoria técnica** — revisão, arquitetura, performance | **R$ 280/h** (pacotes de 10 h) | agenda na semana |
-| ☁️ **Hospedagem de Site** — site estático na minha infra, HTTPS e domínio | **R$ 50/mês** | no ar em 24 h |
-
-Preço de referência para calibrar orçamento. O valor fecha depois da conversa, por escrito, e não muda no meio.
+| Área | Ferramentas |
+|---|---|
+| Linguagens | Go, Rust, PHP, TypeScript, JavaScript, Kotlin |
+| Back-end | Laravel, NestJS, AdonisJS, filas e scheduler, REST |
+| Front-end e desktop | Vue 3, Nuxt, Pinia, Astro, Tailwind, Tauri 2 |
+| Dados | PostgreSQL, MySQL, Redis |
+| Infra | Docker e Compose, nginx, Linux, GitHub Actions, Cloudflare Tunnel |
+| Segurança | threat model por projeto, CSP, DOMPurify, SBOM, `cargo audit`, `cargo deny`, nmap |
 
 ---
 
 <div align="center">
 
-## 📬 Vamos conversar
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PirataZang/PirataZang/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/PirataZang/PirataZang/output/github-contribution-grid-snake.svg" alt="Contribuições no GitHub" />
+</picture>
 
-Me conte o que precisa resolver e eu volto com faixa de preço e prazo **no mesmo dia**.
-Se não for meu tipo de projeto, eu digo — e indico quem faz.
+### Contato
 
-[![WhatsApp](https://img.shields.io/badge/Chamar%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547989022030)
-[![E-mail](https://img.shields.io/badge/Mandar%20um%20e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorfronza20@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-fronza-592796249)
+Vaga, projeto ou conversa técnica: e-mail ou LinkedIn. Também atendo projeto freelance, com escopo e preço fechados no [site](https://www.igorfronza.dev.br/).
 
-<br />
+Achou uma falha em algum projeto meu? Escreva para o contato do [`security.txt`](https://www.igorfronza.dev.br/.well-known/security.txt) em vez de abrir issue pública.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a259f7,50:8b2fff,100:5b2ec4&height=120&section=footer" alt="" />
+[![E-mail](https://img.shields.io/badge/igorfronza20@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:igorfronza20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Igor%20Fronza-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/igor-fronza-592796249)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b2fff,45:2a1460,100:0d1117&height=110&section=footer" alt="" />
 
 </div>
